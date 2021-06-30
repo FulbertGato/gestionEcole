@@ -1,0 +1,14 @@
+{
+    "name": "junio/ism",
+    "description": "gestion d'une ecole",
+    "authors": [
+        {
+            "name": "Fulbert gato junior Adanhodou",
+            "email": "fulbertgatojunior@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"ISM\\": "."}
+    },
+    "require": {}
+}
